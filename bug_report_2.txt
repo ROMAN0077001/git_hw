@@ -1,0 +1,1 @@
+Another bug I found is in the checkout page. The shipping address form is not working correctly.
