@@ -1,1 +1,0 @@
-I found a bug in the search functionality. It is not returning the relevant results.
